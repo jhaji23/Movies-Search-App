@@ -1,0 +1,27 @@
+.show-list {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.show-item {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.show-item h3 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.show-item p {
+  margin: 5px 0;
+}
+
+.show-item img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
